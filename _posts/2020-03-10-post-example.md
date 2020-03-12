@@ -50,7 +50,7 @@ for(String str : strs){
 
 - git   
 
-~~~git
+```
 > git init
 
 > git clone
@@ -58,9 +58,9 @@ for(String str : strs){
 > git commit -m "Test commit"
 
 > git push
-~~~
+```
 
-*해당 코드들은 아무 의미 없는 코드 입니다.*
+*해당 코드들은 테스트용 코드 입니다.*
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
