@@ -26,7 +26,7 @@ test("test");
 
 - Java   
 
-```Java
+```java
 ArrayList<String> strs = new ArrayList<String>();
 
 strs.add("test1");
@@ -40,7 +40,7 @@ for(String str : strs){
 
 - cmd   
 
-```cmd
+```
 > node --version
 
 > npm init
@@ -50,7 +50,7 @@ for(String str : strs){
 
 - git   
 
-```git
+~~~git
 > git init
 
 > git clone
@@ -58,7 +58,7 @@ for(String str : strs){
 > git commit -m "Test commit"
 
 > git push
-```
+~~~
 
 *해당 코드들은 아무 의미 없는 코드 입니다.*
 
